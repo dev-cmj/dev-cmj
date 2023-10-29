@@ -13,17 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img alt="97cmj" src="https://komarev.com/ghpvc/?username=97cmj&label=Profile%20views&color=0e75b6&style=flat" />
-  <a href="https://hits.seeyoufarm.com">
-    <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F97cmj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi👋,%20I'm%20Myungjin%20Choi.&fontSize=70" />
-  <h3 align="center">A passionate web backend developer from Republic of Korea.</h3>
-</p>
 
 <p align="center">
   <b>✨ Connect with me: </b>
