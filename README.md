@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hello. I'm MyungJin</h1>
 
+<div align="center">
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F97cmj%2Fhit-counter&count_bg=%23F3B3FF&title_bg=%23BCA6A6&icon=&icon_color=%23FAAEFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 <p align="center">
   <b>✨ Connect with me: </b>
@@ -32,7 +38,17 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=97cmj&show_icons=true&locale=en" alt="97cmj" />
 </p>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dunghs)](https://solved.ac/dunghs)
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97cmj&layout=compact)
+
+</div>
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dunghs)](https://solved.ac/dunghs)<br/>
+
+</div>
 
 <p align="center">
   <b>🛠 Tech Stack: </b>
