@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=97cmj&show_icons=true&locale=en" alt="97cmj" />
 </p>
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dunghs)](https://solved.ac/dunghs)
+
 <p align="center">
   <b>🛠 Tech Stack: </b>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
